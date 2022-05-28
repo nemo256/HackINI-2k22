@@ -15,8 +15,8 @@ Write-ups of the challenges I solved in the HackINI-2k22 ctf challenge
 ```
 - Repo
   - forensics
-    - lies                    # description
-    - smurf                   # description
+    - lies                    # extract information from an image
+    - smurf                   # analyze ICMP packets from capture file using wireshark
   - jail
     - jsandboxs               # description
     - less                    # description
