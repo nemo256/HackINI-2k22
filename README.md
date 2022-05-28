@@ -21,16 +21,18 @@ Write-ups of the challenges I solved in the HackINI-2k22 ctf challenge
     - jsandboxs               # description
     - less                    # description
   - linux
+    - diff                    # description
     - nutshell1               # description
     - nutshell2               # description
     - nutshell_supreme        # description
     - remote                  # description
+    - welcome                 # description
   - web
     - whois                   # description
     - whois-fixed             # description
   - AUTHORS
   - LICENSE
-  - logo.png
+  - banner.png
   - README.md
 ```
 
