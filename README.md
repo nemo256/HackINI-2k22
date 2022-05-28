@@ -1,7 +1,7 @@
 # HackINI-2k22 ctf challenge write-ups
 Write-ups of the challenges I solved in the HackINI-2k22 ctf challenge
 
-![Logo](logo.png)
+![Banner](banner.png)
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
