@@ -22,4 +22,3 @@ This challenge is very easy.
 ```
 shellmates{f379bbf265604f3514cda4aadbc05137}
 ```
-
