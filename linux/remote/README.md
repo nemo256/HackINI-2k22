@@ -5,7 +5,7 @@ linux/remote
 
 ![Remote](remote.png)
 
-This challenge is easy/medium, depending on your linux knowledge.
+This challenge is easy.
 
 ## Step 1
 - Running the given ssh command will print a GOODBYE message.
