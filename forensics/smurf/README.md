@@ -7,7 +7,7 @@ forensics/smurf
 
 This challenge is relatively easy.
 
-## Step 1
+## Steps
 - Downloading the provided file (smurf.pcapng) and opening it in wireshark.
 - Just from analyzing the ascii codes of each packets, we can see a pattern showing s->h->e->l..., as it is shown in the images below:
 

@@ -7,7 +7,7 @@ jail/jsandboxs
 
 This challenge is relatively easy, depending on your javascript skills.
 
-## Step 1
+## Steps
 - Downloading the provided script.js and reading it.
 - From reading the code, we can figure out that the input gets evaluated using the function eval(), and we can inject our code here.
 - And the injected code has to call that func function because it logs the ./.passwd file (the flag).

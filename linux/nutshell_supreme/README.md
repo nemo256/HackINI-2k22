@@ -7,7 +7,7 @@ linux/nutshell_supreme
 
 This challenge is relatively hard, because it has many steps but with good hints.
 
-## Step 1
+## Steps
 - From reading the provided file (nutshell_supreme) script, it has the same double read from nutshell1 [Nutshell1](../nutshell1/).
 - First hint is using zsh and echo, because we can escape sequences as shown in this link [Echo-ZSH](https://unix.stackexchange.com/questions/88307/escape-sequences-with-echo-e-in-different-shells),
 - We can match the given regex "^[a-z0-9A-Z\\]+$" to get through the first condition to pass it.

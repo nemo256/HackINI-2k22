@@ -7,19 +7,19 @@ linux/remote
 
 This challenge is easy.
 
-## Step 1
+## Steps
 - Running the given ssh command will print a GOODBYE message.
 
-![Step 1a](step-1a.png)
+![Step 1](step-1.png)
 
 - We can get through this by just passing commands to ssh like this: eg: ssh ... 'command'
 - Running ls will find the flag.txt directly.
 
-![Step 1b](step-1b.png)
+![Step 2](step-2.png)
 
 - Now, just printing the flag using the cat command.
 
-![Step 1c](step-1c.png)
+![Step 3](step-3.png)
 
 - The flag is:
 ```

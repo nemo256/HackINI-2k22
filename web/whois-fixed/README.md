@@ -7,11 +7,11 @@ web/whois-fixed
 
 This challenge is medium level.
 
-## Step 1
+## Steps
 - The same staps from [Whois](../whois) to reproduce the exploit.
 - The only difference is that the flag's name is different, ls will output this:
 
-![Step 1a](step-1a.png)
+![Step 1](step-1.png)
 
 - Then, just printing the file 'thisistheflagwithrandomstuffthatyouwontguessJUSTCATME' will output the flag:
 ```
