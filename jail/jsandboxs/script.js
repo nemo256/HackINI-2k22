@@ -16,7 +16,7 @@ const interface = readline.createInterface({
     });
 
 interface.question(
-    "Welcome to JsandboxS...\n",
+    "Welcome to JsandboxS, I gave you a secret phone, you have use it to escape \n",
     function (input) {
         interface.close();
         if ( !black_list.split("").some(x => input.includes(x)) )
