@@ -18,4 +18,3 @@ nutshell() {
 echo 'welcome to the ______'
 
 nutshell 2>/dev/null
-		
