@@ -13,7 +13,7 @@ This challenge is relatively hard, because it has many steps but with good hints
 - We can match the given regex "^[a-z0-9A-Z\\]+$" to get through the first condition to pass it.
 - Then, the second obstacle is getting through the sl command, sl was created for users to display animations aimed to correct users who accidentally enter sl instead of ls.
 - The problem with the sl command is that it always returns an error code (1) (debugged using echo $? to print last return value).
-- From reading about sl command, it has a flag '-v' that prints the version and returns a success code (so that cat flag gets executed)
+- From reading about sl command, it has a flag '-v' that prints the version and returns a success code (so that the 'cat flag' command gets executed)
 - '-e' in echo command is not POSIX compliant, we can inject escape sequences like \055 which is '-'.
 - Now we can inject \\055v which is '-v' into the second variable to cat the flag.
 
