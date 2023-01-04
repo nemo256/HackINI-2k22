@@ -19,11 +19,11 @@
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-* [Format 📁](#format)
-* [License 📑](#license)
+* [Project Structure 📁](#project-structure)
 * [Credits 🤝](#credits)
+* [License 📑](#license)
 
-## Format 📁
+## Project Structure 📁
 
 ```
 HackINI-2k22/
@@ -49,10 +49,9 @@ HackINI-2k22/
 └── README.md
 ```
 
-## License 📑
-- Please read [HackINI-2k22/LICENSE](https://github.com/nemo256/HackINI-2k22/blob/master/LICENSE).
-- If you're too lazy to read, do anything you want with this project and don't forget to give credits to me 'nemo256', this repo link or to the team 'AnonyBlasBlas' as it is much appreciated.
-
 ## Credits 🤝
 - Thank you to shelmates https://ctf.shellmates.club/ for organizing this event.
 - Thank you to all the AnonyBlasBlas team members for participating.
+
+## License 📑
+- Please read [HackINI-2k22/LICENSE](https://github.com/nemo256/HackINI-2k22/blob/master/LICENSE).
